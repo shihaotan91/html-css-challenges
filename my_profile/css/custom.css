@@ -1,0 +1,105 @@
+body {
+  padding: 20px;
+  background-color: #2d2d2d;
+  color: white;
+  border: 5px white solid;
+}
+
+.class1 {
+  margin-left: 40px;
+  margin-top: 60px;
+  width: 800px;
+  height: 300px;
+}
+
+.class2 {
+  margin-left: 20px;
+  margin-top: 60px;
+  width: 400px;
+  height: 300px;
+}
+
+#me {
+  border-radius: 50%;
+  width: 250px;
+  height: 250px;
+  margin-top: 26px;
+  margin-left: 10px;
+  float: left;
+}
+
+#name1 {
+  margin-top: 76px;
+}
+
+#name1, #occupation, #about {
+  margin-left: 300px;
+}
+
+i {
+  font-size: 50px;
+  margin-top: 34px;
+  margin-left: 55px;
+}
+
+ul {
+  list-style: none;
+}
+
+.movies {
+  color: red;
+  text-align: center;
+  padding: 60px;
+}
+
+
+#class3 {
+  margin-left: 40px;
+  margin-top: 60px;
+  width: 400px;
+  height: 300px;
+}
+
+#class4 {
+  margin-left: 20px;
+  margin-top: 60px;
+  width: 800px;
+  height: 300px;
+}
+
+#class5 {
+  margin-left: 40px;
+  margin-top: 60px;
+  width: 800px;
+  height: 300px;
+}
+
+#class6 {
+  margin-left: 20px;
+  margin-top: 60px;
+  width: 400px;
+  height: 300px;
+  text-align: right;
+}
+
+#class7 {
+  margin-left: 40px;
+  margin-top: 60px;
+  width: 400px;
+  height: 300px;
+}
+
+#class8 {
+  margin-left: 20px;
+  margin-top: 60px;
+  width: 800px;
+  height: 300px;
+}
+
+.right {
+  text-align: right;
+}
+
+p {
+  font-size: 18px;
+}
